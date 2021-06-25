@@ -54,3 +54,10 @@ cursor: pointer;
     font-family: 'Dancing Script', cursive;
     font-size: 30px;
 }
+.article{
+    font-size: 30px;
+    font-family: fantasy;
+}
+.article:hover{
+    color: fuchsia;
+}
